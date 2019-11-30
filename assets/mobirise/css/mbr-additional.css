@@ -1120,7 +1120,7 @@ section.lazy-placeholder:after {
 .cid-rICV1wyNuV {
   padding-top: 90px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/broken-household-appliances-864x502.jpg");
+  background-image: url("../../../assets/images/broken-household-appliances-864x5020.jpg");
 }
 .cid-rINJ8hyxrF {
   padding-top: 30px;
@@ -6031,7 +6031,7 @@ section.lazy-placeholder:after {
 }
 .cid-rJ0mwb3Hvn {
   padding-top: 90px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-rJ0mwb3Hvn .card-box {
@@ -6071,6 +6071,11 @@ section.lazy-placeholder:after {
 }
 .cid-rJ0mwb3Hvn .card-title {
   text-align: center;
+}
+.cid-rJglifAS4t {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-rIV1L5Emq9 {
   padding-top: 105px;
